@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+g++ program.cpp
+
+./a.out
